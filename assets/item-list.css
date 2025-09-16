@@ -1,3 +1,9 @@
+.itens-list {
+    display: flex;
+    flex-direction: column;
+    gap: .75rem;
+}
+
 .item {
     display: flex;
     justify-content: space-between;
