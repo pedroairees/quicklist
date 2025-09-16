@@ -1,0 +1,10 @@
+@media (width <= 45.625rem) {
+    .content {
+        width: 20.4375rem;
+    }
+
+    form {
+        grid-template-columns: auto;
+        grid-template-rows: auto auto;
+    }
+}
